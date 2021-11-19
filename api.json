@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "tipo": "Perro",
+        "nombre": "Pascual",
+        "precio": 100000,
+        "observacion": "Esta mal",
+        "ubicacion": "Se encuentra en robledo cerca a la quintana",
+        "rasgos": "Tiene el pelo cafe  , ademas tiene una patica mala",
+        "imagen": "http://c.files.bbci.co.uk/48DD/production/_107435681_perro1.jpg"
+    },
+    {
+        "id": 2,
+        "tipo": "Gato",
+        "nombre": "Icaro",
+        "precio":50000, 
+        "observacion": "Es un gatico cachorro que esta en la calle",
+        "ubicacion": "Esta en belen  por los lados de  la udem",
+        "rasgos": "Es pequeño  y el pelo lo tiene negro",
+        "imagen": "https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/social_share_large/public/01_%C2%BFQu%C3%A9-puedo-hacer-si-mi-gato-est%C3%A1-triste-.png?itok=w67Nhubc"
+    },
+    {
+        "id": 3,
+        "tipo": "Caballo",
+        "nombre": "Oreo",
+        "precio": 2000000,
+        "observacion": "Esta denutrido",
+        "ubicacion": "en un lote por la autipista medellin bogota",
+        "rasgos": "Es blanco y  esta  muy delgado",
+        "imagen": "https://www.zotal.com/wp-content/uploads/2019/08/razascaballos.png"
+    },
+    {
+        "id": 4,
+        "tipo": "Perro",
+        "nombre": "Sacha",
+        "precio":150000,
+        "observacion": "Tiene un ojo  herido",
+        "ubicacion": "Esta en aranjuez por el parque",
+        "rasgos": "Es un perro criollo y tiene un ojo spr herido",
+        "imagen": "https://cnnespanol.cnn.com/wp-content/uploads/2020/07/200703104728-labrador-retriever-stock-super-169.jpg?quality=100&strip=info"
+    },
+    {
+        "id": 5,
+        "tipo": "Gato",
+        "nombre": "Nica",
+        "precio":110000,
+        "observacion": "Es una gatica que acabo de dar a luz",
+        "ubicacion": "Parque del poblado",
+        "rasgos": "Es una gata blanca y tiene 6 gaticos cachorros",
+        "imagen": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/59c4f5655bafe82c692a7052/gato-marron_0.jpg"
+    },
+    {
+        "id": 6,
+        "tipo": "Pajaro",
+        "nombre": "Cantor",
+        "precio": 60000,
+        "observacion": "Tiene una ala aproriada",
+        "ubicacion": "Esta en prometeo",
+        "rasgos": "Es un pechi rojo",
+        "imagen": "https://www.euroresidentes.com/hogar/mascotas/wp-content/uploads/sites/5/2014/07/como-curar-pajaro-herido-euroresidentes.jpg"
+    }
+]
